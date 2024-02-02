@@ -1,10 +1,5 @@
 # Silviozas-Proxy
-Growtopia Silviozas Proxy Source
-
-## How to use
-* Build with Release x64
-
-* Start proxy -> auto patch hosts -> Works as supposed
+Growtopia Silviozas Proxy Cracked.
 
 ## Features
 * [P] Visual Clothes & Effects Are Now Fully Visible To Other Proxy Users!
